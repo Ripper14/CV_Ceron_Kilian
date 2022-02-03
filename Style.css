@@ -1,0 +1,140 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  max-width: 1200px;
+  font-family: Raleway;
+  padding: 0px;
+  margin: 0px;
+  margin-left: 180px;
+}
+.Photo {
+  width: 210px;
+  height: 200px;
+  border-style: solid;
+  border-width: 5px;
+}
+h1 {
+  color: #ff9d8e;
+}
+.Parti1 {
+  background-color: #536284;
+  width: 1200px;
+  padding-bottom: 20px;
+}
+.Parti2 {
+  border: black solid 5px;
+  background-color: white;
+  width: 700px;
+  margin-left: 400px;
+  margin-top: -906px;
+  box-shadow: 6px 6px 6px black;
+}
+.Titre {
+  width: 400px;
+  padding-top: 150px;
+  padding-left: 50px;
+}
+.Espacement {
+  margin-top: 20px;
+}
+.ColorW {
+  color: white;
+}
+.colorS {
+  color: #ff9d8e;
+}
+.Profil {
+  margin-top: 60px;
+  width: 300px;
+}
+.Langues {
+  margin-top: 50px;
+}
+.Information {
+  margin-top: 50px;
+}
+.TitreBloc {
+  font-size: 20px;
+  text-decoration: underline;
+  color: #ff9d8e;
+}
+.StyleTitre {
+  padding-left: 230px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ff9d8e;
+}
+.Passions {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+  text-decoration: underline;
+  color: #373741;
+}
+.Formations {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+  text-decoration: underline;
+  color: #373741;
+}
+.Expériences {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+  text-decoration: underline;
+  color: #373741;
+}
+.Compétences {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+  text-decoration: underline;
+  color: #373741;
+}
+.Icone {
+  margin-top: 15px;
+  font-size: 70px;
+  margin-left: 100px;
+  letter-spacing: 40px;
+}
+.EspacementIcone {
+  margin-top: 30px;
+  letter-spacing: 45px;
+}
+.TexteIcone {
+  margin-top: 10px;
+  display: flex;
+  width: 650px;
+  margin-left: 10px;
+}
+.EspacementFormations {
+  padding-left: 5px;
+  border-left: 150px solid #ff9d8e;
+  border-top: 5px solid #ff9d8e;
+  border-bottom: 5px solid #ff9d8e;
+}
+.underline {
+  text-decoration: underline;
+}
+.Lien1 {
+  color: #ff9d8e;
+}
+.Lien2 {
+  color: lightslategray;
+}
+.EspacementExperience {
+  padding-left: 5px;
+}
+.EspacementTexteExp {
+  margin-top: 25px;
+  line-height: 10px;
+}
+.EspacementCompetence {
+  display: flex;
+  padding-left: 5px;
+}
+.Soft {
+  margin-left: 10px;
+}
+.Hards {
+  margin-left: -5px;
+}
